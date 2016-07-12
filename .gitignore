@@ -1,0 +1,10 @@
+figures/
+results/
+paper/*.aux
+paper/*.fls
+paper/*.log
+paper/*.pdf
+data/*.csv
+analyses/.ipynb_checkpoints/
+.ipynb_checkpoints/
+.sconsign.dblite
