@@ -8,3 +8,4 @@ data/*.csv
 analyses/.ipynb_checkpoints/
 .ipynb_checkpoints/
 .sconsign.dblite
+analyses/__pycache__
